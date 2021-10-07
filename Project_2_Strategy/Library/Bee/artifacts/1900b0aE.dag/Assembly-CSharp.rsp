@@ -331,9 +331,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/CellController.cs"
 "Assets/Scripts/ContextMenuController.cs"
 "Assets/Scripts/DisplayWorldGrid.cs"
+"Assets/Scripts/GridCell.cs"
+"Assets/Scripts/HUDController.cs"
 "Assets/Scripts/PlayerMovement_GridBased.cs"
+"Assets/Scripts/Player_EnergyController.cs"
+"Assets/Scripts/WorldGridController.cs"
 -langversion:8.0
 
 /deterministic
